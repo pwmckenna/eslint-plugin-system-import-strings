@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-system-import-strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwmckenna/eslint-plugin-system-import-strings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwmckenna/eslint-plugin-system-import-strings/issues"
+  },
+  "homepage": "https://github.com/pwmckenna/eslint-plugin-system-import-strings#readme",
+  "devDependencies": {
+    "eslint": "^3.8.0",
+    "mocha": "^3.1.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  }
+}
